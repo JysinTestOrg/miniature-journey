@@ -1,3 +1,3 @@
 # miniature-journeyd
-d
+d.
 ,
